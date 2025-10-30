@@ -1,0 +1,9 @@
+{
+	"name": "azure-data-factory-prac",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "505bf28d-2272-4ff4-b50f-ed06c0936bea",
+		"tenantId": "2dce3443-369e-4ff9-ae3b-9968f6b50ef6"
+	}
+}
